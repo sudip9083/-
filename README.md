@@ -1,1 +1,1 @@
-Click [here](./README.md) to read.
+Click [here](./README.md) 
